@@ -1,2 +1,2 @@
 # bitcoin
-Bitcoin addresses in Nim
+Bitcoin libraries in Nim
